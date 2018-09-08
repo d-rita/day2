@@ -10,7 +10,7 @@ def countVowels(string):
     x="".join(x)
     return(x, vowels_count-len(x))
     
-print(countVowels('awestruck'))
+
 
         
 
